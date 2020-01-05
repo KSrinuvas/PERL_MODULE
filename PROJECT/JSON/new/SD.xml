@@ -1,0 +1,79 @@
+<opt>
+  <movie name="tt0112384" director="Ron Howard" mpaa-rating="PG" release-date="1995-06-30" running-time="140" title="Apollo 13">
+    <cast name="person">
+      <Bill Paxton role="Fred Haise" />
+      <Ed Harris role="Gene Kranz" />
+      <Gary Sinise role="Ken Mattingly" />
+      <Kevin Bacon role="Jack Swigert" />
+      <Tom Hanks role="Jim Lovell" />
+    </cast>
+    <genre>adventure</genre>
+    <genre>drama</genre>
+    <imdb-info score="7.6" synopsis="
+        NASA must devise a strategy to return Apollo 13 to Earth safely
+        after the spacecraft undergoes massive internal damage putting
+        the lives of the three astronauts on board in jeopardy.
+      " url="http://www.imdb.com/title/tt0112384/" />
+  </movie>
+  <movie name="tt0307479" director="Steven Soderbergh" mpaa-rating="PG-13" release-date="2002-11-27" running-time="99" title="Solaris">
+    <cast name="person">
+      <George Clooney role="Chris Kelvin" />
+      <Natascha McElhone role="Rheya" />
+      <Ulrich Tukur role="Gibarian" />
+    </cast>
+    <genre>drama</genre>
+    <genre>mystery</genre>
+    <genre>romance</genre>
+    <imdb-info score="6.2" synopsis="
+        A troubled psychologist is sent to investigate the crew of an
+        isolated research station orbiting a bizarre planet.
+      " url="http://www.imdb.com/title/tt0307479/" />
+  </movie>
+  <movie name="tt0816692" director="Christopher Nolan" mpaa-rating="PG-13" release-date="2014-11-07" running-time="169" title="Interstellar">
+    <cast name="person">
+      <Anne Hathaway role="Brand" />
+      <Jessica Chastain role="Murph" />
+      <Matthew McConaughey role="Cooper" />
+      <Michael Caine role="Professor Brand" />
+    </cast>
+    <genre>adventure</genre>
+    <genre>drama</genre>
+    <genre>scifi</genre>
+    <imdb-info score="8.6" synopsis="
+        A team of explorers travel through a wormhole in space in an
+        attempt to ensure humanity's survival.
+      " url="http://www.imdb.com/title/tt0816692/" />
+  </movie>
+  <movie name="tt1731141" director="Gavin Hood" mpaa-rating="PG-13" release-date="2013-11-01" running-time="114" title="Ender's Game">
+    <cast name="person">
+      <Asa Butterfield role="Ender Wiggin" />
+      <Hailee Steinfeld role="Petra Arkanian" />
+      <Harrison Ford role="Colonel Graff" />
+    </cast>
+    <genre>action</genre>
+    <genre>scifi</genre>
+    <imdb-info score="6.7" synopsis="
+        Young Ender Wiggin is recruited by the International Military
+        to lead the fight against the Formics, a genocidal alien race
+        which nearly annihilated the human race in a previous invasion.
+      " url="http://www.imdb.com/title/tt1731141/" />
+  </movie>
+  <movie name="tt3659388" director="Ridley Scott" mpaa-rating="PG-13" release-date="2015-10-02" running-time="144" title="The Martian">
+    <cast name="person">
+      <Jessica Chastain role="Melissa Lewis" />
+      <Kristen Wiig role="Annie Montrose" />
+      <Matt Damon role="Mark Watney" />
+    </cast>
+    <genre>adventure</genre>
+    <genre>drama</genre>
+    <genre>scifi</genre>
+    <imdb-info score="8.1" synopsis="
+        During a manned mission to Mars, Astronaut Mark Watney is
+        presumed dead after a fierce storm and left behind by his crew.
+        But Watney has survived and finds himself stranded and alone on
+        the hostile planet. With only meager supplies, he must draw upon
+        his ingenuity, wit and spirit to subsist and find a way to
+        signal to Earth that he is alive.
+      " url="http://www.imdb.com/title/tt3659388/" />
+  </movie>
+</opt>

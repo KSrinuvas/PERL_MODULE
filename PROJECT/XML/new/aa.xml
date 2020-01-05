@@ -1,0 +1,10 @@
+<opt>
+  <data>
+    <Empid Empid="SRM01" />
+    <Name Name="SUNIL" />
+    <Age Age="20" />
+    <Salary Salary="25K" />
+    <Qualification Qualification="B.tech" />
+    <Exp Exp="2Years" />
+  </data>
+</opt>

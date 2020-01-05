@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<?meta name="GENERATOR" content="XML::Smart/1.78 Perl/5.022001 [linux]" ?>
+<server os="Linux" type="mandrake" version="8.9">
+  <address>192.168.3.201</address>
+  <address>192.168.3.202</address>
+</server>
+

@@ -1,0 +1,34 @@
+<opt>
+  <Emp>
+    <Details Empid="SRM01" />
+    <Details Name="SUNIL" />
+    <Details Age="20" />
+    <Details Salary="25K" />
+    <Details Qualification="B.tech" />
+    <Details Exp="2Years" />
+  </Emp>
+  <Emp>
+    <Details Empid="SRM02" />
+    <Details Name="CHANDU" />
+    <Details Age="22" />
+    <Details Salary="50k" />
+    <Details Qualification="M.tech" />
+    <Details Exp="4Years" />
+  </Emp>
+  <Emp>
+    <Details Empid="SRM03" />
+    <Details Name="RAM" />
+    <Details Age="24" />
+    <Details Salary="40K" />
+    <Details Qualification="M.sc" />
+    <Details Exp="3Years" />
+  </Emp>
+  <Emp>
+    <Details Empid="SRM04" />
+    <Details Name="RAVI" />
+    <Details Age="22" />
+    <Details Salary="35k" />
+    <Details Qualification="M.ca" />
+    <Details Exp="2Years" />
+  </Emp>
+</opt>

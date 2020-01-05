@@ -1,0 +1,30 @@
+<opt>
+  <Empid>
+    <SRM01 Age="20" />
+    <SRM01 Exp ="2Years" />
+    <SRM01 Name="SUNIL" />
+    <SRM01 Qualification="B.tech" />
+    <SRM01 Salary="25K" />
+  </Empid>
+  <Empid>
+    <SRM04 Age="22" />
+    <SRM04 Exp ="2Years " />
+    <SRM04 Name="RAVI" />
+    <SRM04 Qualification="M.ca" />
+    <SRM04 Salary="35k" />
+  </Empid>
+  <Empid>
+    <SRM02 Age="22" />
+    <SRM02 Exp ="4Years" />
+    <SRM02 Name="CHANDU" />
+    <SRM02 Qualification="M.tech" />
+    <SRM02 Salary="50k" />
+  </Empid>
+  <Empid>
+    <SRM03 Age="24" />
+    <SRM03 Exp ="3Years " />
+    <SRM03 Name="RAM" />
+    <SRM03 Qualification="M.sc" />
+    <SRM03 Salary="40K" />
+  </Empid>
+</opt>

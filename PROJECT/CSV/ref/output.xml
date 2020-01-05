@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<!-- My happy little HTML page -->
+<?foo bar?>
+<html><body><h1><font color="green"></font></h1><p>Nice to see you.</p></body></html>

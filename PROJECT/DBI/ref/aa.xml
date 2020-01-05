@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<job id_name="317D">
+<server1>
+        <servername>DMZ </servername>
+        <ipaddress>199.53.9.50</ipaddress>
+        <user>csftplch</user>
+</server1>
+<server2>
+        <servername>ICE</servername>
+        <ipaddress>199.53.9.51</ipaddress>
+        <user>csftplc1</user>
+</server2>
+</job>

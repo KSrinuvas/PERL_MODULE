@@ -1,0 +1,14 @@
+<FOOD>
+      <ITEM id='1'>
+          <Color>Brown</Color>
+          <Name>Steak</Name>
+      </ITEM>
+      <ITEM id='2'>
+          <Color>Blue</Color>
+          <Name>Blueberries</Name>
+      </ITEM>
+      <ITEM id='3'>
+          <Color>Red</Color>
+          <Name>Apple</Name>
+     </ITEM>
+</FOOD>
